@@ -70,14 +70,6 @@ GitHub:
 https://github.com/Lexie1wxy/japanese-listening-repeater
 ```
 
-## Where To Share
-
-- 小红书:日语学习、精听、shadowing、听写。
-- B站:录 30-60 秒操作视频,展示导入字幕、点击句子、段落循环。
-- 知乎:写一篇“我做了一个本地日语精听复读播放器”。
-- V2EX / 掘金:偏技术向,强调纯前端、本地优先、IndexedDB。
-- Reddit `r/LearnJapanese`:用英文说明自备合法材料,不提供内容下载。
-
 ## Safety Notes
 
 - 不要上传真实广播、影视、教材音频。
