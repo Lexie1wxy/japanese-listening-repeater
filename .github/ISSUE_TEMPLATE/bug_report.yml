@@ -1,0 +1,36 @@
+name: Bug report
+description: Report something that is not working correctly
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. Please do not attach copyrighted audio, full subtitles, or transcripts.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the issue and what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open ...
+        2. Import ...
+        3. Click ...
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      placeholder: Chrome 126, Safari 18, Firefox 128
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: If needed, use short original sample text instead of copyrighted content.
